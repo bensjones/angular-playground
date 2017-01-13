@@ -1,1 +1,1 @@
-# angular_playground
+# angular-playground
